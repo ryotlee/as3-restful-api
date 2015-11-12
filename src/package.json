@@ -1,0 +1,12 @@
+{
+	"version":"0.0.1",
+	"debug":"false",
+	"baseURI":"http://localhost:8080",
+	"apis":[
+		{
+			"name":"TestService",
+			"endpoint":"trace",
+			"classPath":"com.test.TestService"
+		}
+	]
+}
